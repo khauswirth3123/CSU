@@ -17,3 +17,5 @@ def my_function(fname,age):
     print(fname + " Hauswirth " + "is " + str(age))
 
 my_function("Kendall", 18)
+
+# TODO: Make a new function that has a for loop
